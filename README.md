@@ -1,1 +1,1 @@
-Here are the Job Details.
+Job Details.
